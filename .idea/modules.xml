@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../java-ai-springai/java-ai-springai/chat/chat.iml" filepath="$PROJECT_DIR$/../java-ai-springai/java-ai-springai/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-ai.iml" filepath="$PROJECT_DIR$/java-ai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-ai-springai/java-ai-springai/java-ai-springai.iml" filepath="$PROJECT_DIR$/../java-ai-springai/java-ai-springai/java-ai-springai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../java-ai-springai/java-ai-springai/springai_chat/springai_chat/springai_chat.iml" filepath="$PROJECT_DIR$/../java-ai-springai/java-ai-springai/springai_chat/springai_chat/springai_chat.iml" />
+    </modules>
+  </component>
+</project>
